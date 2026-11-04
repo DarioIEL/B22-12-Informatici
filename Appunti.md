@@ -1,4 +1,4 @@
-# Appunti Linux
+# Appunti Linux  
 In questa sezione prenderemo appunti circa  Linux e la CLI
 
 ## Appunti teorici da sapere
